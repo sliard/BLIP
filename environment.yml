@@ -1,0 +1,15 @@
+name: blip
+channels:
+  - defaults
+dependencies:
+  - python=3.8.5
+  - pip=20.3
+  - cudatoolkit=11.3
+  - pytorch=1.12.1
+  - pip:
+    - timm==0.4.12
+    - transformers==4.15.0
+    - fairscale==0.4.4
+    - ruamel_yaml
+    - opencv-python
+    - -e git+https://github.com/salaniz/pycocoevalcap.git@master#egg=pycocoevalcap
