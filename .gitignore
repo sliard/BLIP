@@ -2,3 +2,8 @@
 checkpoints
 src
 output
+
+# Pants workspace files
+/.pants.*
+/dist/
+/.pids

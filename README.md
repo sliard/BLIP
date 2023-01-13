@@ -114,3 +114,8 @@ If you find this code to be useful for your research, please consider citing.
 
 ### Acknowledgement
 The implementation of BLIP relies on resources from <a href="https://github.com/salesforce/ALBEF">ALBEF</a>, <a href="https://github.com/huggingface/transformers">Huggingface Transformers</a>, and <a href="https://github.com/rwightman/pytorch-image-models/tree/master/timm">timm</a>. We thank the original authors for their open-sourcing.
+
+### Requirements
+
+https://docs.vmware.com/en/VMware-vSphere-Bitfusion/3.0/Example-Guide/GUID-ABB4A0B1-F26E-422E-85C5-BA9F2454363A.html
+https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html
