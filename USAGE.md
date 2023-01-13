@@ -19,6 +19,8 @@ You need to have 2 libs in your system :
 - [cudnn](https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html)
 
 
+Test script :
+
     ./pants run annotate.py -- --config configs/med_config.json --model checkpoint/model_base_caption_capfilt_large.pth --image /image-path/image.jpg
 
 Package a pex file :
