@@ -20,7 +20,7 @@ def load_demo_image(image_path,image_size,device):
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--image')
-parser.add_argument('--model', default='checkpoint/model_base_caption_capfilt_large.pth')
+parser.add_argument('--model', default='checkpoints/model_base_caption_capfilt_large.pth')
 parser.add_argument('--config', default='configs/med_config.json')
 args = parser.parse_args()
 

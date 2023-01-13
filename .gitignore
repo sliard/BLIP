@@ -7,3 +7,5 @@ output
 /.pants.*
 /dist/
 /.pids
+
+*.pex

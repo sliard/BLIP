@@ -15,6 +15,6 @@ root_patterns = [
 
 [python]
 
-interpreter_constraints = ["CPython==3.8.*"]
+interpreter_constraints = ["CPython==3.10.*"]
 # This will become the default in Pants 2.15.
 tailor_pex_binary_targets = false

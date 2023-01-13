@@ -12,6 +12,6 @@ pex_binary(
     entry_point="annotate.py",
     dependencies=["//:reqs0"],
     shebang="/usr/bin/env python3",
-    output_path="babbar.blip.pex",
+    output_path="babbar.blip.annotate.pex",
     include_tools=True,
 )
